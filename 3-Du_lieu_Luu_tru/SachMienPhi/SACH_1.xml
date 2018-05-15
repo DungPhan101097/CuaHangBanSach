@@ -1,0 +1,19 @@
+<Sach MaSach="" TuaDe ="" HinhAnh="" GioiThieu="" Gia="" TenTacGia="">
+    <Uploader MaSo=""></Uploader>
+    <DanhSachTheLoai>
+        <TheLoai Ten=""></TheLoai>
+        <TheLoai Ten=""></TheLoai>
+        <TheLoai Ten=""></TheLoai>
+    </DanhSachTheLoai>
+   
+   <DanhSachDanhGia>
+        <DanhGia Rate="" ThoiDiem=""></DanhGia>
+        <DanhGia Rate="" ThoiDiem=""></DanhGia>
+        <DanhGia Rate="" ThoiDiem=""></DanhGia>
+   </DanhSachDanhGia>
+
+   <DanhSachBinhLuan>
+        <BinhLuan NoiDung="" ThoiDiem=""></BinhLuan>
+        <BinhLuan NoiDung="" ThoiDiem=""></BinhLuan>
+   </DanhSachBinhLuan>
+</Sach>

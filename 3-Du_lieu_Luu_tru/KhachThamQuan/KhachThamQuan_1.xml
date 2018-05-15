@@ -1,0 +1,24 @@
+<KhachThamQuan MaSo="" Email="" CMND="" MatKhau="" TenHienThi="">
+    <The MaSo=""></The>
+    <DanhSachLichSuTimKiem>
+        <LichSuTimKiem ChuoiTimKiem="" ThoiDiem=""></LichSuTimKiem>
+        <LichSuTimKiem ChuoiTimKiem="" ThoiDiem=""></LichSuTimKiem>
+        <LichSuTimKiem ChuoiTimKiem="" ThoiDiem=""></LichSuTimKiem>
+    </DanhSachLichSuTimKiem>
+
+    <DanhSachLichSuDocSach>
+        <LichSuDocSach Trang="" ThoiDiem=""></LichSuDocSach>
+        <LichSuDocSach Trang="" ThoiDiem=""></LichSuDocSach>
+    </DanhSachLichSuDocSach>
+
+    <DanhSachSachYeuThich>
+        <SachYeuThich MaSach=""></SachYeuThich>
+        <SachYeuThich MaSach=""></SachYeuThich>
+    </DanhSachSachYeuThich>
+
+    <DanhSachHoaDon>
+        <HoaDon TongTien="" Ngay=""></HoaDon>
+        <HoaDon TongTien="" Ngay=""></HoaDon>
+    </DanhSachHoaDon>
+
+</KhachThamQuan>
